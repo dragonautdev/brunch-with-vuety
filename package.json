@@ -1,0 +1,42 @@
+{
+  "name": "brunch-with-vuety",
+  "version": "1.0.0",
+  "description": "An opinionated Brunch Skeleton using Vue, Vuex and VueRouter
+  along with axios for client-server communication and an example api structure ",
+  "main": "public/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/srodriki/production-manager.git"
+  },
+  "keywords": [
+    "vue",
+    "brunch",
+    "vuex",
+    "vue-router"
+  ],
+  "author": "Rodrigo Juliani <srodriki@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/srodriki/production-manager/issues"
+  },
+  "homepage": "https://gitlab.com/srodriki/production-manager#README",
+  "devDependencies": {
+    "babel-brunch": "^6.0.6",
+    "babel-plugin-transform-runtime": "^6.22.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-es2016": "^6.22.0",
+    "babel-preset-latest": "^6.22.0",
+    "brunch": "^2.10.6",
+    "vue-brunch": "^2.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.15.3",
+    "store": "^1.3.20",
+    "vue": "^2.1.10",
+    "vue-router": "^2.2.0",
+    "vuex": "^2.1.2"
+  }
+}
