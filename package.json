@@ -1,8 +1,7 @@
 {
   "name": "brunch-with-vuety",
   "version": "1.0.0",
-  "description": "An opinionated Brunch Skeleton using Vue, Vuex and VueRouter
-  along with axios for client-server communication and an example api structure ",
+  "description": "An opinionated Brunch Skeleton using Vue, Vuex and VueRouter along with axios for client-server communication and an example api structure ",
   "main": "public/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
