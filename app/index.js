@@ -1,12 +1,10 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-// Workaround to suffice a problem in vue-brunch at the moment
-import 'vueify/lib/insert-css'
 
 import routes from './config/routes'
 import routerHooks from './config/routes/hooks'
 import App from './App'
-import store from './store'
+import store from './vuex-store'
 
 Vue.use(Router)
 
