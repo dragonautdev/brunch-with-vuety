@@ -12,7 +12,7 @@ module.exports = {
   },
   plugins: {
     babel: {
-      presets: ['es2015']
+      presets: ['latest', 'stage-3']
     },
     vue: {
       extractCSS: true
